@@ -1,0 +1,13 @@
+
+body{
+    align-items: center;
+    text-align: center;
+}
+
+.containe:{
+    border: 2px solid white;
+}
+
+h1{
+    color: rgb(33, 5, 65);
+}
